@@ -9,7 +9,7 @@ tags:
 slug: juicy-code
 ---
 
-Check out this JUICY! code:
+Check out this really JUICY! code:
 
 ~~~ruby
 def with_value_from_database(value)
